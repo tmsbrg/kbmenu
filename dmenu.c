@@ -250,7 +250,7 @@ match(void)
             exit(1);
         }
     }
-	// calcoffsets();
+	calcoffsets();
 }
 
 static void
